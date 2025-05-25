@@ -1,0 +1,66 @@
+[
+	//Worker
+	{
+		"name": "National Department of Labor",
+		"cost": 0,
+		"isNationalWonder": true,
+		"uniques": ["Can be purchased with [Gold] [in capital]",
+			"Moves to new capital when capital changes",
+			"[-100]% construction time for [All] improvements",
+			"All newly-trained [Worker] units [in all cities] receive the [Industriousness] promotion",
+			"[+1000]% Production when constructing [Worker] units [in all cities]",
+			"May buy [Worker] units for [0] [Gold] [in all cities]",
+			"Destroyed when the city is captured",
+			"Only available <for [Human player] Civilizations><hidden from users>"]
+	},
+	//Happy
+	{ 
+		"name": "House of Happiness",  
+		"cost": 1, 
+		"isNationalWonder": true, 
+		"uniques": [ "Destroyed when the city is captured",  
+			"[+15 Happiness] per [1] population [in all cities]", 
+			"[+1000]% [Happiness] [in all cities]", 
+			"[10] Happiness from each type of luxury resource", 
+			"[-10000]% Unhappiness from [Population] [in all cities]",
+			"Moves to new capital when capital changes", 
+			"Only available <for [Human player] Civilizations><hidden from users>"] 
+	},
+	//Food
+	{ 
+		"name": "National House of Absolute",  
+		"cost": 1, 
+		"isNationalWonder": true, 
+		"uniques": [ "Destroyed when the city is captured", 
+			"[+10 Food] per [1] population [in all cities]",
+			"[+10 Production] per [1] population [in all cities]",
+			"[+10 Gold] per [1] population [in all cities]", 
+			"No Maintenance costs for improvements in [All] tiles", 
+			"[-100]% maintenance costs <for [All] units>",
+			"[+1000]% [Food] [in all cities]", 
+			"[+100]% [Science] [in all cities]",
+			"[+1000]% growth [in all cities]",
+			"Moves to new capital when capital changes", 
+			"Only available <for [Human player] Civilizations><hidden from users>" ] 
+	},
+	//Military
+	{ 
+		"name": "Military House", 
+		"cost": 1, 
+		"isNationalWonder": true, 
+		"uniques": [ "[1] additional attacks per turn", 
+			"Destroyed when the city is captured", 
+			"Damage is ignored when determining unit Strength for [All] units", 
+			"Enables [All] units to enter ocean tiles", 
+			"[1] Movement point cost to disembark", 
+			"[1] Movement point cost to embark", 
+			"Military Units gifted from City-States start with [200000] XP", 
+			"New [All] units start with [200000] Experience [in all cities]", 
+			"No movement cost to pillage", 
+			"All newly-trained [All] units [in all cities] receive the [1st Ability] promotion",
+			"Only available <for [Human player] Civilizations><hidden from users>" ] } 
+
+
+
+
+]
