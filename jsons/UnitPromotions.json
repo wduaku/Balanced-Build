@@ -8,14 +8,14 @@
 			"[1] Movement point cost to embark",
 			"[1] Movement point cost to disembark",
       			"Can instantly construct a [non-[Great]] improvement <for [0] movement>",
-			"Can build [Water] improvements on tiles",
+			"May create improvements on water resources",
 			"Can move immediately once bought"]
     
 	},
 
 	{ 
 		"name": "1st Ability", 
-		"uniques": [ "Withdraw before melee combat ([50]%)", 
+		"uniques": [ "May heal outside of friendly territory", 
 			"Can see over obstacles", 
 			"Invisible to non-adjacent units", 
 			"Can see invisible [All] units", 
@@ -35,6 +35,6 @@
 			"[10]% chance to intercept air attacks", 
 			"Can move immediately once bought", 
 			"Can move after attacking", 
-			"Unit will heal every turn"] 
+			"Unit will heal every turn, even if it performs an action"] 
 	}
 ]
