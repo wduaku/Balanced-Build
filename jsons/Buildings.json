@@ -32,33 +32,32 @@
 		"cost": 1, 
 		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured", 
-			"[+10 Food] per [1] population [in all cities]",
+			"[+5 Food] per [1] population [in all cities]",
 			"[+10 Production] per [1] population [in all cities]",
-			"[+10 Gold] per [1] population [in all cities]", 
+			"[+10 Gold] per [1] population [in all cities]",
+			"[+2 Science] per [1] population [in all cities]", 
 			"No Maintenance costs for improvements in [All] tiles", 
 			"[-100]% maintenance costs <for [All] units>",
 			"[+1000]% [Food] [in all cities]", 
 			"[+100]% [Science] [in all cities]",
 			"[+1000]% growth [in all cities]",
 			"Moves to new capital when capital changes", 
-			"Only available <for [Human player] Civilizations><hidden from users>" ] 
+			"Only available <for [Human player] Civilizations><hidden from users>"] 
 	},
 	//Military
 	{ 
 		"name": "Military House", 
 		"cost": 1, 
 		"isNationalWonder": true, 
-		"uniques": [ "[1] additional attacks per turn", 
-			"Destroyed when the city is captured", 
-			"Damage is ignored when determining unit Strength for [All] units", 
+		"uniques": [ "Destroyed when the city is captured", 
+			"No damage penalty for wounded units", 
 			"Enables [All] units to enter ocean tiles", 
-			"[1] Movement point cost to disembark", 
-			"[1] Movement point cost to embark", 
-			"Military Units gifted from City-States start with [200000] XP", 
-			"New [All] units start with [200000] Experience [in all cities]", 
+			"[+1] Movement <for [All] units>", 
+			"[+2] Sight <for [All] units>",  
+			"New [All] units start with [5000] XP [in all cities]", 
 			"No movement cost to pillage", 
 			"All newly-trained [All] units [in all cities] receive the [1st Ability] promotion",
-			"Only available <for [Human player] Civilizations><hidden from users>" ] } 
+			"Only available <for [Human player] Civilizations><hidden from users>"]} 
 
 
 
