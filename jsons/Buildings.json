@@ -70,6 +70,7 @@
 			"[+1 Carbon] per [10] population [in this city]", 
 			"Must have an owned [City center] within [3] tiles",
 			"Can be purchased with [Gold] [in capital]",
+			"Will not be displayed in Civilopedia",
 			"Only available <for [Human player] Civilizations><hidden from users>"]} 
 
 
