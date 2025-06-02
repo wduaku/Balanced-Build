@@ -64,6 +64,7 @@
 		"name": "Wonderer Palace", 
 		"cost": 1, 
 		"isWonder": true, 
+		"uniqueTo": "First Order",
 		"uniques": [ "Destroyed when the city is captured", 
 			"Quantity of strategic resources produced by the empire +[500]% <hidden from users>", 
 			"[+1 Carbon] per [10] population [in this city]", 
