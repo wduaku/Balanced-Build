@@ -40,7 +40,7 @@
 			"[-100]% maintenance costs <for [All] units>",
 			"[+1000]% [Food] [in all cities]", 
 			"[+100]% [Science] [in all cities]",
-			"[+1000]% growth [in all cities]",
+			"[+100]% [Gold] [in all cities]",
 			"Moves to new capital when capital changes", 
 			"Only available <for [Human player] Civilizations><hidden from users>"] 
 	},
@@ -57,9 +57,21 @@
 			"New [All] units start with [5000] XP [in all cities]", 
 			"No movement cost to pillage", 
 			"All newly-trained [All] units [in all cities] receive the [1st Ability] promotion",
+			"Only available <for [Human player] Civilizations><hidden from users>"]
+	},
+	//Wonder
+	{ 
+		"name": "Wonderer Palace", 
+		"cost": 1, 
+		"isWonder": true, 
+		"uniques": [ "Destroyed when the city is captured", 
+			"Quantity of strategic resources produced by the empire +[500]% <hidden from users>", 
+			"[+1 Carbon] per [10] population [in this city]", 
+			"Must have an owned [City center] within [3] tiles",
+			"Can be purchased with [Gold] [in capital]",
 			"Only available <for [Human player] Civilizations><hidden from users>"]} 
 
 
 
-
 ]
+
