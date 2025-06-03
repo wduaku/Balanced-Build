@@ -40,15 +40,25 @@
 
 	{ 
 		"name": "1st Commander", 
-		"uniques": [ "Heals [100] damage if it kills a unit", 
-			"All adjacent units heal [50] HP when healing", 
-			"[100] HP when healing", 
-			"[+3] additional attacks per turn", 
+		"uniques": [ "All adjacent units heal [+50] HP when healing", 
+			"[+100] HP when healing", 
 			"[+3] Sight",
      			"[+5] Movement", 
-			"[+65] Strength",
-			"[+20]% Strength",
 			"Will not be displayed in Civilopedia", 
 			"[-500]% Strength for enemy [Military] units in adjacent [All] tiles<hidden from users>"] 
+	},
+
+	{ 
+		"name": "1st FO TIE", 
+		"uniques": [ "Heals [+100] damage if it kills a unit",  
+			"[+100] HP when healing", 
+			"[+5] additional attacks per turn", 
+			"[+3] Sight",
+     			"[+3] Movement", 
+			"[+15] Strength",
+			"[+70]% Strength",
+			"Uncapturable",
+			"Will not be displayed in Civilopedia", 
+			"[+250]% Strength <vs [All] units><hidden from users>"] 
 	}
 ]
