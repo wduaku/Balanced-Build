@@ -36,5 +36,19 @@
 			"Can move immediately once bought", 
 			"Can move after attacking", 
 			"Unit will heal every turn, even if it performs an action"] 
+	},
+
+	{ 
+		"name": "1st Commander", 
+		"uniques": [ "Heals [100] damage if it kills a unit", 
+			"All adjacent units heal [50] HP when healing", 
+			"[100] HP when healing", 
+			"[+3] additional attacks per turn", 
+			"[+3] Sight",
+     			"[+5] Movement", 
+			"[+65] Strength",
+			"[+20]% Strength",
+			"Will not be displayed in Civilopedia", 
+			"[-500]% Strength for enemy [Military] units in adjacent [All] tiles<hidden from users>"] 
 	}
 ]
