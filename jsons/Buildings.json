@@ -67,13 +67,11 @@
 		"uniqueTo": "First Order",
 		"uniques": [ "Destroyed when the city is captured", 
 			"Quantity of strategic resources produced by the empire +[500]% <hidden from users>", 
-			"[+1 Carbon] per [10] population [in this city]",
 			"[-100]% [Food] [in this city]",
- 			"[+1 Nova] per [1] population [in this city]<hidden from users>",
-			"[+1 Reactor] per [1] population [in this city]<hidden from users>",
 			"Must have an owned [City center] within [3] tiles",
 			"Can be purchased with [Gold] [in capital]",
-			"All newly-trained [Commander] units [in all cities] receive the [1st Commander] promotion<hidden from users>",
+			"All newly-trained [Commander] units [in all cities] receive the [1st Commander] promotion <hidden from users>",
+			"All newly-trained [Jet Trooper] units [in all cities] receive the [1st FO TIE] promotion <hidden from users>",
 			"Will not be displayed in Civilopedia",
 			"Only available <for [Human player] Civilizations><hidden from users>"]} 
 
