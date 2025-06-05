@@ -51,32 +51,26 @@
 		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured", 
 			"No damage penalty for wounded units", 
-			"Enables [All] units to enter ocean tiles", 
-			"[+1] Movement <for [All] units>", 
-			"[+2] Sight <for [All] units>",  
+			"Enables [All] units to enter ocean tiles",  
 			"New [All] units start with [5000] XP [in all cities]", 
 			"No movement cost to pillage", 
-			"All newly-trained [All] units [in all cities] receive the [1st Ability] promotion",
+			"All newly-trained [Military] units [in all cities] receive the [1st Ability] promotion",
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	},
-	//Wonder
+	//Resource
 	{ 
-		"name": "Wonderer Palace", 
-		"cost": 0, 
-		"isWonder": true, 
-		"uniqueTo": "First Order",
+		"name": "Royal House of Luxury",  
+		"cost": 10000, 
+		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured", 
-			"Quantity of strategic resources produced by the empire +[500]% <hidden from users>", 
-			"[-100]% [Food] [in this city]",
-			"[+200]% [Production] [in all cities]",
-			"Must have an owned [City center] within [3] tiles",
-			"Provides [+10] [Nova] <hidden from users>",
+			"Quantity of strategic resources produced by the empire +[100]%",
+			"[+350]% [Production] [in all cities]",
 			"Can be purchased with [Gold] [in capital]",
-			"All newly-trained [Commander] units [in all cities] receive the [1st Commander] promotion <hidden from users>",
-			"Will not be displayed in Civilopedia",
-			"Only available <for [Human player] Civilizations><hidden from users>"]} 
+			"Moves to new capital when capital changes", 
+			"Only available <for [Human player] Civilizations><hidden from users>"] 
+	}
+
 
 
 
 ]
-

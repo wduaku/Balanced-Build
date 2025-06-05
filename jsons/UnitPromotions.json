@@ -3,55 +3,39 @@
 		"name": "Industriousness",
 		"uniques": [
 			"Ignores terrain cost",
-     			"[+1] Sight",
-     			"[+2] Movement",
+     			"[+2] Sight",
 			"[1] Movement point cost to embark",
 			"[1] Movement point cost to disembark",
       			"Can instantly construct a [non-[Great]] improvement <for [0] movement>",
 			"May create improvements on water resources",
+			"May Paradrop up to [5] tiles from inside friendly territory",
+			"Uncapturable",
 			"Can move immediately once bought"]
     
 	},
 
 	{ 
 		"name": "1st Ability", 
-		"uniques": [ "May heal outside of friendly territory", 
-			"Can see over obstacles", 
-			"Invisible to non-adjacent units", 
-			"Can see invisible [All] units", 
-			"All tiles cost 1 movement", 
-			"May travel on Water tiles without embarking", 
-			"No movement cost to pillage", 
-			"Eliminates combat penalty for attacking across a coast", 
-			"May attack when embarked", 
-			"Eliminates combat penalty for attacking over a river", 
-			"Ranged attacks may be performed over obstacles", 
+		"uniques": [ 
+			"[+1] Sight", 
+			"[+2] Movement",
+			"[+2] additional attacks per turn", 
 			"May Paradrop up to [10] tiles from inside friendly territory",  
-			"May attack when embarked", 
-			"Can see over obstacles", 
-			"May enter foreign tiles without open borders", 
-			"Ranged attacks may be performed over obstacles", 
+			"May heal outside of friendly territory", 
+			"All tiles cost 1 movement",
 			"Can enter ice tiles", 
-			"[10]% chance to intercept air attacks", 
 			"Can move immediately once bought", 
-			"Can move after attacking", 
-			"Unit will heal every turn, even if it performs an action"] 
+			"Can move after attacking"] 
 	},
 
 	{ 
-		"name": "Battler PU",
-		"prerequisites": ["1st Ability"],
-		"unitTypes": ["Battler"]
-		"uniques": [ "Heals [+100] damage if it kills a unit <hidden from users>",  
-			"[+10] HP when healing <hidden from users>", 
-			"[+5] additional attacks per turn <hidden from users>", 
-			"[+3] Sight <hidden from users>",
-     			"[+5] Movement <hidden from users>", 
-			"[+25] Strength <hidden from users>",
-			"[+120]% Strength <hidden from users>",
-			"Uncapturable",
-			"Will not be displayed in Civilopedia", 
-			"[-250]% Strength for enemy [Military] units in adjacent [All] tiles<hidden from users>",
-			"[+250]% Strength <vs [All] units><hidden from users>"] 
+		"name": "2nd Ability",
+		"prerequisites": ["1st Ability"], 
+		"uniques": [ 
+			"[+1] Range", 
+			"[25] Strength",
+			"[+150]% Strength <vs [All] units>",
+			"Heals [+25] damage if it kills a unit",
+			"Unit will heal every turn, even if it performs an action"] 
 	}
 ]
