@@ -75,7 +75,7 @@
 		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured", 
 			"Enables [All] units to enter ocean tiles", 
-			"Can perform Air Sweep",
+			"[+60]% Strength for cities",
 			"All healing effects doubled", 
 			"All newly-trained [Military] units [in all cities] receive the [Second Job] promotion",
 			"Only available <if [Military House] is constructed>",
