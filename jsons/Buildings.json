@@ -16,7 +16,7 @@
 	//Happy
 	{ 
 		"name": "House of Happiness",  
-		"cost": 100, 
+		"cost": 10, 
 		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured",  
 			"[+15 Happiness] per [2] population [in all cities]", 
@@ -29,7 +29,7 @@
 	//Food
 	{ 
 		"name": "Food Factory",  
-		"cost": 300, 
+		"cost": 100, 
 		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured", 
 			"[+5 Food] per [1] population [in all cities]",
@@ -42,7 +42,7 @@
 	//GoldnProd
 	{ 
 		"name": "BnB Capital",  
-		"cost": 250, 
+		"cost": 35, 
 		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured", 
 			"[+10 Production] per [1] population [in all cities]",
@@ -59,7 +59,7 @@
 	//Military
 	{ 
 		"name": "Military House", 
-		"cost": 500, 
+		"cost": 150, 
 		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured", 
 			"No damage penalty for wounded units",   
@@ -71,7 +71,7 @@
 	//Military
 	{ 
 		"name": "Guardian House", 
-		"cost": 1650, 
+		"cost": 550, 
 		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured", 
 			"Enables [All] units to enter ocean tiles", 
