@@ -16,7 +16,7 @@
 	//Happy
 	{ 
 		"name": "House of Happiness",  
-		"cost": 70, 
+		"cost": 100, 
 		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured",  
 			"[+15 Happiness] per [2] population [in all cities]", 
@@ -29,20 +29,20 @@
 	//Food
 	{ 
 		"name": "Food Factory",  
-		"cost": 200, 
+		"cost": 300, 
 		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured", 
 			"[+5 Food] per [1] population [in all cities]",
 			"[+600]% [Food] [in all cities]", 
 			"Moves to new capital when capital changes",
 			"Can be purchased with [Gold] [in capital]",
-			"Only available <if [BnB Capital] is constructed" 
+			"Only available <if [BnB Capital] is constructed",
 			"Only available <for [Human player] Civilizations><hidden from users>"] 
 	},
 	//GoldnProd
 	{ 
 		"name": "BnB Capital",  
-		"cost": 150, 
+		"cost": 250, 
 		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured", 
 			"[+10 Production] per [1] population [in all cities]",
@@ -53,7 +53,7 @@
 			"[+100]% [Science] [in all cities]",
 			"[+100]% [Gold] [in all cities]",
 			"Can be purchased with [Gold] [in capital]",
-			"Only available <if [House of Happiness] is constructed" 
+			"Only available <if [House of Happiness] is constructed", 
 			"Only available <for [Human player] Civilizations><hidden from users>"] 
 	},
 	//Military
@@ -68,17 +68,17 @@
 			"All newly-trained [Military] units [in all cities] receive the [First Job] promotion",
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	},
-	//Military2
+	//Military
 	{ 
 		"name": "Guardian House", 
-		"cost": 650, 
+		"cost": 1650, 
 		"isNationalWonder": true, 
 		"uniques": [ "Destroyed when the city is captured", 
 			"Enables [All] units to enter ocean tiles", 
 			"Can perform Air Sweep",
 			"All healing effects doubled", 
 			"All newly-trained [Military] units [in all cities] receive the [Second Job] promotion",
-			"Only available <if [Military House] is constructed"
+			"Only available <if [Military House] is constructed",
 			"Only available <for [Human player] Civilizations><hidden from users>"]
 	},
 	//Resource
@@ -91,7 +91,7 @@
 			"[+350]% [Production] [in all cities]",
 			"Can be purchased with [Gold] [in capital]",
 			"Moves to new capital when capital changes",
-			"Only available <if [Guardian House] is constructed"
+			"Only available <if [Guardian House] is constructed",
 			"Will not be displayed in Civilopedia",
 			"All newly-trained [Military] units [in all cities] receive the [Hidden Job] promotion <hidden from users>", 
 			"Only available <for [Human player] Civilizations><hidden from users>"] 
